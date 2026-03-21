@@ -7,7 +7,7 @@ Building Financial Systems & Scalable Frontend Architecture
 </p>
 
 <p align="center">
-Angular • React • Java Spring • Microservices • Data-Driven Systems
+Angular • React • Java Spring • FastAPI • Microservices • Data-Driven Systems
 </p>
 
 <p align="center">
@@ -18,18 +18,10 @@ Software engineer focused on building reliable systems, real-world products, and
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Engineer;Full+Stack+Builder;System+Design+Learner&center=true&width=500&height=50">
 </p> -->
 
----
-
-<!-- ======================= STATS ======================= -->
-
- <p><br></p>
-<p align="center">
-<img height="150" src="https://streak-stats.demolab.com?user=drewthefirst&theme=dark&background=0a0a0a&hide_border=true" />
-<!-- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewthefirst&layout=compact&theme=dark" /> -->
-</p>
- <p><br></p>
 
 ---
+
+
 
 <!-- ======================= ABOUT ======================= -->
 
@@ -67,6 +59,10 @@ Full-stack financial data pipeline for ingesting, processing, and visualizing tr
 
 ## Currently Building
 
+### Programming Bible
+- A structured, Java-based reference for mastering data structures and algorithms through clean, intentional implementations
+- Designed as a personal engineering playbook to reinforce problem-solving patterns and deepen core fundamentals
+
 ### RAG API
 - Local retrieval system built with FastAPI, Ollama, and ChromaDB
 - Chunks and embeds documents with `nomic-embed-text`, stores vectors persistently, and retrieves context for grounded answers
@@ -90,12 +86,14 @@ Full-stack financial data pipeline for ingesting, processing, and visualizing tr
 <img src="https://skillicons.dev/icons?i=angular,react,ts,js,java,spring,maven,nodejs,python,html,css,docker,jenkins,git,mysql,mongodb" />
 </p>
 
+<details>
+<summary><strong>Technologies</strong></summary>
+
 **Frontend:**
-<!-- <u><strong>Frontend</strong></u> -->
 Angular · AngularJS · React · TypeScript · JavaScript
 
 **Backend:**
-Java (Spring Boot, Maven) · Node.js · REST APIs
+Java (Spring Boot, Maven, Thymeleaf) · Node.js · REST APIs
 
 **Data:**
 Python · JSON processing
@@ -112,6 +110,8 @@ MySQL · MongoDB
 **AI-Assisted Development:**
 ChatGPT · Claude
 → Used for testing, debugging, prototyping, and system design iteration
+
+</details>
 
 ---
 
@@ -141,8 +141,8 @@ ChatGPT · Claude
 
 ## Links
 
-- LinkedIn → https://www.linkedin.com/in/campbelldrew1/
-- Resume → https://tinyurl.com/831rjcxaz
+- [LinkedIn](https://www.linkedin.com/in/campbelldrew1/)
+- [Resume](https://tinyurl.com/831rjcxaz)
 
 ---
 
@@ -154,6 +154,22 @@ ChatGPT · Claude
 - Improving data structures & algorithms
 - Strengthening system design thinking
 - Executing consistently instead of over-planning
+
+---
+
+<!-- ======================= STATS ======================= -->
+## Stats
+
+<p align="center">
+  <img height="150" src="https://streak-stats.demolab.com?user=drewthefirst&theme=dark&background=0a0a0a&hide_border=true" />
+  <!-- <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drewthefirst&layout=compact&theme=dark" /> -->
+</p>
+
+---
+
+<p align="center">
+  <img height="150" width="385" src="https://github-readme-activity-graph.vercel.app/graph?username=drewthefirst&theme=tokyo-night" />
+</p>
 
 ---
 
