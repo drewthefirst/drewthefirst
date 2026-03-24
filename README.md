@@ -142,7 +142,7 @@ ChatGPT · Claude
 ## Links
 
 - [LinkedIn](https://www.linkedin.com/in/campbelldrew1/)
-- [Resume](https://tinyurl.com/831rjcxaz)
+- [Resume](https://tinyurl.com/831rjcxzared)
 
 ---
 
